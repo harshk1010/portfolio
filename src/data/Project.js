@@ -2,7 +2,7 @@ export const project = [
   {
     title: "Food Order",
     description:
-      "A comprehensive full-stack web application designed to streamline food ordering for both customers and restaurants, Developed using React and SpringBoot",
+      "A comprehensive full-stack web application designed to streamline food ordering for both customers and restaurants.",
     thumbnail:
       "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     link: "https://hk-food-psi.vercel.app/",
@@ -28,7 +28,7 @@ export const project = [
   {
     title: "Golf Club",
     description:
-      "A responsive web application designed using HTML, CSS, and JavaScript to showcase the club’s offerings and create an engaging online presence.",
+      "A responsive web application designed to showcase the club’s offerings and create an engaging online presence.",
     thumbnail:
       "https://images.pexels.com/photos/1325751/pexels-photo-1325751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     link: "https://golf-fawn-nine.vercel.app/",
@@ -38,7 +38,7 @@ export const project = [
   {
     title: "Hotel Booking",
     description:
-      "Focusing on mobile-first design, developed fluid layouts using HTML, CSS, and JavaScript and integrated Owl Carousel sliders to showcase hotel galleries.",
+      "Focusing on mobile-first design, developed fluid layouts and integrated Owl Carousel sliders to showcase hotel galleries.",
     thumbnail:
       "https://images.pexels.com/photos/1755288/pexels-photo-1755288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     link: "https://booking-site-nu.vercel.app/",
