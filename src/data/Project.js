@@ -2,7 +2,7 @@ export const project = [
   {
     title: "Food Order",
     description:
-      "TuneScape is a music streaming platform allowing users to create lobbies with unique codes for social listening experiences",
+      "FoodOrder, a comprehensive full-stack web application designed to streamline food ordering for both customers and restaurants.",
     thumbnail:
       "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     link: "https://hk-food-psi.vercel.app/",
@@ -12,7 +12,7 @@ export const project = [
   {
     title: "Netflix Clone",
     description:
-      "StudyNotion is a robust LMS platform, powered by the MERN stack, offering an intuitive and efficient e-learning experience.",
+      "Netflix Clone, a full-stack web application replicating the core features of the popular streaming platform.",
     thumbnail:
       "https://images.pexels.com/photos/2726370/pexels-photo-2726370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     link: "https://github.com/harshk1010/Netflix",
@@ -28,7 +28,7 @@ export const project = [
   {
     title: "Golf Club",
     description:
-      "A sleek ReactJS and TailwindCSS powered front-end app for seamless food ordering, offering a delightful user experience.",
+      "A responsive web application designed to showcase the club’s offerings and create an engaging online presence.",
     thumbnail:
       "https://images.pexels.com/photos/1325751/pexels-photo-1325751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     link: "https://golf-fawn-nine.vercel.app/",
@@ -38,7 +38,7 @@ export const project = [
   {
     title: "Hotel Booking",
     description:
-      "A sleek, responsive static website for online shopping, meticulously crafted with HTML, CSS, and JavaScript for a seamless user experience.",
+      "Focusing on mobile-first design, developed fluid layouts and integrated Owl Carousel sliders to showcase hotel galleries.",
     thumbnail:
       "https://images.pexels.com/photos/1755288/pexels-photo-1755288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     link: "https://booking-site-nu.vercel.app/",
